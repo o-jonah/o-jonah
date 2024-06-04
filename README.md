@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @o-jonah
-- 👀 I’m interested in creating and bringing ideas to life in app and web development
-- 🌱 I’m currently learning everything 
-- 💞️ I’m looking to collaborate on the [projects to adhance my knowledge experience
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love football and had dream of becoming Ronaldo in Tech World
+Hi, am Jonah a front end web developer and expanding the potentials of backend. I love building and collaborative work for all to benefit and enjoy user experience.
 
 
